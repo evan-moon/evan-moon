@@ -9,6 +9,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까?](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 - [Why we need to know about CORS?](https://evan-moon.github.io/2020/05/21/about-cors/en/)
 - [정말 근무 시간만이 워라밸의 전부일까?](https://evan-moon.github.io/2020/09/27/work-life-balance/)
@@ -20,7 +21,3 @@
 <a href="https://linkedin.com/in/evan-moon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="evan-moon" height="30" width="40" /></a>
 <a href="/https://evan-moon.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://evan-moon.github.io/feed.xml" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evan-moon&show_icons=true&locale=en&layout=compact" alt="evan-moon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evan-moon&show_icons=true&locale=en" alt="evan-moon" /></p>
