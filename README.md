@@ -1,14 +1,10 @@
 ![dino.gif](./dino.gif)
 
-<h3 align="center">거북이처럼 사는 개발자입니다 🐢</h3>
+### Evan Moon
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evan-moon&label=Profile%20views&color=0e75b6&style=flat" alt="evan-moon" /> </p>
+거북이처럼 사는 개발자입니다 🐢
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evan-moon" alt="evan-moon" /></a> </p>
-
-- 📝 I regulary write articles on [https://evan-moon.github.io](https://evan-moon.github.io)
-
-- 📄 Know about my experiences [https://evan-moon.github.io/about](https://evan-moon.github.io/about)
+<img src="https://komarev.com/ghpvc/?username=evan-moon&label=Profile%20views&color=0e75b6&style=flat" alt="evan-moon" />
 
 ### Blogs posts
 
