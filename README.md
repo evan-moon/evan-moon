@@ -9,7 +9,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까?](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 - [Why we need to know about CORS?](https://evan-moon.github.io/2020/05/21/about-cors/en/)
 - [정말 근무 시간만이 워라밸의 전부일까?](https://evan-moon.github.io/2020/09/27/work-life-balance/)
