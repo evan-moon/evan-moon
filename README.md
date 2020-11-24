@@ -1,12 +1,12 @@
 ![dino.gif](./dino.gif)
 
-### Evan Moon
+## Evan Moon
 
 거북이처럼 사는 개발자입니다 🐢
 
 <img src="https://komarev.com/ghpvc/?username=evan-moon&label=Profile%20views&color=0e75b6&style=flat" alt="evan-moon" />
 
-### Blogs posts
+### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
 - [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까?](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
