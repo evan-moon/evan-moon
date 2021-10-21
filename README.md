@@ -14,3 +14,9 @@
 - [[tsconfig의 모든 것] Compiler options / Type Checking](https://evan-moon.github.io/2021/08/08/tsconfig-compiler-options-type-check/)
 - [[tsconfig의 모든 것] Root fields](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
 <!-- BLOG-POST-LIST:END -->
+
+## Lubycon Sandbox
+루비콘 팀에서 1~3년차 주니어 개발자/디자이너 분들을 대상으로 스타트업 시뮬레이션을 통한 멘토링을 진행 중입니다. 현재 사전 신청을 받고 있으니, 많은 분들의 관심 부탁드려요! 🙏
+- [Sandbox 사전신청하러 가기](https://lubycon.io/mentoring/intro?utm_source=evan_github)
+- [Lubycon Github 구경하기](https://github.com/Lubycon)
+
