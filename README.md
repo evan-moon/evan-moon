@@ -9,10 +9,10 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
+- [인간은 무엇을 위해 움직이는가](https://evan-moon.github.io/2023/10/03/how-to-be-a-better-leader/)
 - [시장에서 살아남는 사람이 되기](https://evan-moon.github.io/2023/05/07/improve-my-career/)
 - [추상이란 무엇일까](https://evan-moon.github.io/2023/01/15/what-is-abstract/)
 - [토스에서의 시간을 돌아보며](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
-- [개발자가 알아야 할 스톡옵션의 모든 것](https://evan-moon.github.io/2021/12/04/what-is-stock-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 강의
