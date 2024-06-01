@@ -9,10 +9,10 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
+- [[번역] 프로그래머를 위한 카테고리 이론 - 10. 자연 변환](https://evan-moon.github.io/2024/06/01/category-theory-for-programmers-10-natural-transformations/)
 - [[번역] 프로그래머를 위한 카테고리 이론 - 9. 함수 타입](https://evan-moon.github.io/2024/04/18/category-theory-for-programmers-9-function-types/)
 - [[번역] 프로그래머를 위한 카테고리 이론 - 8. 펑터의 특성](https://evan-moon.github.io/2024/04/02/category-theory-for-programmers-8-functoriality/)
 - [[번역] 프로그래머를 위한 카테고리 이론 - 7. 펑터](https://evan-moon.github.io/2024/03/15/category-theory-for-programmers-7-functors/)
-- [[번역] 프로그래머를 위한 카테고리 이론 - 6. 단순한 대수적 타입](https://evan-moon.github.io/2024/03/05/category-theory-for-programmers-6-simple-algebraic-data-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 강의
