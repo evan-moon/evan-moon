@@ -9,10 +9,10 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
+- [[번역] 프로그래머를 위한 카테고리 이론 - 11. 선언적 프로그래밍](https://evan-moon.github.io/2024/12/25/category-theory-for-programmers-11-declarative-programming/)
+- [좋은 코드란 무엇일까? - 가독성이란 허상에 대하여](https://evan-moon.github.io/2024/12/23/the-illusion-of-a-right-answer/)
 - [지금 프로그래밍을 하고 있는 당신은 누구인가](https://evan-moon.github.io/2024/06/23/perspective-on-ai/)
 - [[번역] 프로그래머를 위한 카테고리 이론 - 10. 자연 변환](https://evan-moon.github.io/2024/06/01/category-theory-for-programmers-10-natural-transformations/)
-- [[번역] 프로그래머를 위한 카테고리 이론 - 9. 함수 타입](https://evan-moon.github.io/2024/04/18/category-theory-for-programmers-9-function-types/)
-- [[번역] 프로그래머를 위한 카테고리 이론 - 8. 펑터의 특성](https://evan-moon.github.io/2024/04/02/category-theory-for-programmers-8-functoriality/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 강의
