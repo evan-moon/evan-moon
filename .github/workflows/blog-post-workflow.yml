@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: 블로그 포스팅 README에 추가
 on:
   schedule:
     - cron: '0 * * * *'
