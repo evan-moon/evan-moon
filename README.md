@@ -18,12 +18,12 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
+<sup>[선언적 프로그래밍에 대한 착각과 오해](https://evan-moon.github.io/2025/09/07/declarative-programming-misconceptions-and-essence/)</sup><br/>
 <sup>[무조건적 다양성 존중은 허상이다: 연기법&lpar;緣起法&rpar;으로 본 조직 운영의 지혜](https://evan-moon.github.io/2025/07/06/diversity-illusion-leadership/)</sup><br/>
 <sup>[[번역] 프로그래머를 위한 카테고리 이론 - 11. 선언적 프로그래밍](https://evan-moon.github.io/2024/12/25/category-theory-for-programmers-11-declarative-programming/)</sup><br/>
 <sup>[좋은 코드란 무엇일까? - 가독성이란 허상에 대하여](https://evan-moon.github.io/2024/12/23/the-illusion-of-a-right-answer/)</sup><br/>
 <sup>[지금 프로그래밍을 하고 있는 당신은 누구인가](https://evan-moon.github.io/2024/06/23/perspective-on-ai/)</sup><br/>
-<sup>[[번역] 프로그래머를 위한 카테고리 이론 - 10. 자연 변환](https://evan-moon.github.io/2024/06/01/category-theory-for-programmers-10-natural-transformations/)</sup><br/>
-<sup>[[번역] 프로그래머를 위한 카테고리 이론 - 9. 함수 타입](https://evan-moon.github.io/2024/04/18/category-theory-for-programmers-9-function-types/)</sup><br/><!-- BLOG-POST-LIST:END -->
+<sup>[[번역] 프로그래머를 위한 카테고리 이론 - 10. 자연 변환](https://evan-moon.github.io/2024/06/01/category-theory-for-programmers-10-natural-transformations/)</sup><br/><!-- BLOG-POST-LIST:END -->
 
 ### Youtube
 <sup>[2023 NE(O)RDINARY | 시장에서 살아남는 개발자 되기](https://youtu.be/BuU7JVune-s?si=8YOIt54_1IPaUSyj)</sup><br/>
