@@ -18,12 +18,12 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
+<sup>[타입 시스템은 왜 증명처럼 동작하는가](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/)</sup><br/>
 <sup>[조직의 탁월함은 사람으로 만들지만 지속성은 시스템이 만든다](https://evan-moon.github.io/2026/01/24/leading-frontend-organization/)</sup><br/>
 <sup>[자산 관리는 상태 관리의 문제다](https://evan-moon.github.io/2026/01/17/assets-management/)</sup><br/>
 <sup>[상태에서 관계로: 선언적 오버레이 패턴&lpar;Declarative Overlay Pattern&rpar;](https://evan-moon.github.io/2025/10/07/declarative-overlay-pattern-with-overlay-kit/)</sup><br/>
 <sup>[선언적 프로그래밍에 대한 착각과 오해](https://evan-moon.github.io/2025/09/07/declarative-programming-misconceptions-and-essence/)</sup><br/>
-<sup>[무조건적 다양성 존중은 허상이다: 연기법&lpar;緣起法&rpar;으로 본 조직 운영의 지혜](https://evan-moon.github.io/2025/07/06/diversity-illusion-leadership/)</sup><br/>
-<sup>[[번역] 프로그래머를 위한 카테고리 이론 - 11. 선언적 프로그래밍](https://evan-moon.github.io/2024/12/25/category-theory-for-programmers-11-declarative-programming/)</sup><br/><!-- BLOG-POST-LIST:END -->
+<sup>[무조건적 다양성 존중은 허상이다: 연기법&lpar;緣起法&rpar;으로 본 조직 운영의 지혜](https://evan-moon.github.io/2025/07/06/diversity-illusion-leadership/)</sup><br/><!-- BLOG-POST-LIST:END -->
 
 ### Youtube
 <sup>[2023 NE(O)RDINARY | 시장에서 살아남는 개발자 되기](https://youtu.be/BuU7JVune-s?si=8YOIt54_1IPaUSyj)</sup><br/>
