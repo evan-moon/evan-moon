@@ -20,10 +20,10 @@
 <!-- BLOG-POST-LIST:START -->
 <sup>[우리는 왜 어떤 코드를 읽기 쉽다고 느낄까](https://evan-moon.github.io/2026/01/30/developer-intuition-readable-code-and-neuroscience/)</sup><br/>
 <sup>[Why Do We Feel Some Code Is Easier to Read?](https://evan-moon.github.io/2026/01/30/developer-intuition-readable-code-and-neuroscience/en/)</sup><br/>
+<sup>[Why Do Type Systems Behave Like Proofs?](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/en/)</sup><br/>
 <sup>[타입 시스템은 왜 증명처럼 동작하는가](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/)</sup><br/>
 <sup>[조직의 탁월함은 사람으로 만들지만 지속성은 시스템이 만든다](https://evan-moon.github.io/2026/01/24/leading-frontend-organization/)</sup><br/>
-<sup>[자산 관리는 상태 관리의 문제다](https://evan-moon.github.io/2026/01/17/assets-management/)</sup><br/>
-<sup>[상태에서 관계로: 선언적 오버레이 패턴&lpar;Declarative Overlay Pattern&rpar;](https://evan-moon.github.io/2025/10/07/declarative-overlay-pattern-with-overlay-kit/)</sup><br/><!-- BLOG-POST-LIST:END -->
+<sup>[자산 관리는 상태 관리의 문제다](https://evan-moon.github.io/2026/01/17/assets-management/)</sup><br/><!-- BLOG-POST-LIST:END -->
 
 ### Youtube
 <sup>[2023 NE(O)RDINARY | 시장에서 살아남는 개발자 되기](https://youtu.be/BuU7JVune-s?si=8YOIt54_1IPaUSyj)</sup><br/>
