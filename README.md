@@ -18,10 +18,10 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
-<sup>[우리는 왜 어떤 코드를 읽기 쉽다고 느낄까](https://evan-moon.github.io/2026/01/30/developer-intuition-readable-code-and-neuroscience/)</sup><br/>
 <sup>[Why Do We Feel Some Code Is Easier to Read?](https://evan-moon.github.io/2026/01/30/developer-intuition-readable-code-and-neuroscience/en/)</sup><br/>
-<sup>[Why Do Type Systems Behave Like Proofs?](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/en/)</sup><br/>
+<sup>[우리는 왜 어떤 코드를 읽기 쉽다고 느낄까](https://evan-moon.github.io/2026/01/30/developer-intuition-readable-code-and-neuroscience/)</sup><br/>
 <sup>[타입 시스템은 왜 증명처럼 동작하는가](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/)</sup><br/>
+<sup>[Why Do Type Systems Behave Like Proofs?](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/en/)</sup><br/>
 <sup>[조직의 탁월함은 사람으로 만들지만 지속성은 시스템이 만든다](https://evan-moon.github.io/2026/01/24/leading-frontend-organization/)</sup><br/>
 <sup>[자산 관리는 상태 관리의 문제다](https://evan-moon.github.io/2026/01/17/assets-management/)</sup><br/><!-- BLOG-POST-LIST:END -->
 
