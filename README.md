@@ -23,7 +23,7 @@
 <sup>[타입 시스템은 왜 증명처럼 동작하는가](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/)</sup><br/>
 <sup>[Why Do Type Systems Behave Like Proofs?](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/en/)</sup><br/>
 <sup>[조직의 탁월함은 사람으로 만들지만 지속성은 시스템이 만든다](https://evan-moon.github.io/2026/01/24/leading-frontend-organization/)</sup><br/>
-<sup>[자산 관리는 상태 관리의 문제다](https://evan-moon.github.io/2026/01/17/assets-management/)</sup><br/><!-- BLOG-POST-LIST:END -->
+<sup>[People Create Excellence, but Systems Make It Last](https://evan-moon.github.io/2026/01/24/leading-frontend-organization/en/)</sup><br/><!-- BLOG-POST-LIST:END -->
 
 ### Youtube
 <sup>[2023 NE(O)RDINARY | 시장에서 살아남는 개발자 되기](https://youtu.be/BuU7JVune-s?si=8YOIt54_1IPaUSyj)</sup><br/>
