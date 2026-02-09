@@ -18,8 +18,8 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
-<sup>[Beyond Functors, All the Way to Monads](https://evan-moon.github.io/2026/02/07/monads-in-typescript/en/)</sup><br/>
 <sup>[펑터를 넘어서, 모나드까지](https://evan-moon.github.io/2026/02/07/monads-in-typescript/)</sup><br/>
+<sup>[Beyond Functors, All the Way to Monads](https://evan-moon.github.io/2026/02/07/monads-in-typescript/en/)</sup><br/>
 <sup>[Why Do We Feel Some Code Is Easier to Read?](https://evan-moon.github.io/2026/01/30/developer-intuition-readable-code-and-neuroscience/en/)</sup><br/>
 <sup>[우리는 왜 어떤 코드를 읽기 쉽다고 느낄까](https://evan-moon.github.io/2026/01/30/developer-intuition-readable-code-and-neuroscience/)</sup><br/>
 <sup>[Why Do Type Systems Behave Like Proofs?](https://evan-moon.github.io/2026/01/25/types-as-proofs-typescript-hidden-math/en/)</sup><br/>
