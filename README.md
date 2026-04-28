@@ -18,12 +18,12 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
-<sup>[AI 코딩 시대, 더이상 성장하지 않는 개발자들](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)</sup><br/>
+<sup>[Tools Live On After Leaving Their Maker](https://evan-moon.github.io/2026/04/28/tools-leave-their-maker/en/)</sup><br/>
+<sup>[도구는 만든 사람을 떠나서 살아간다](https://evan-moon.github.io/2026/04/28/tools-leave-their-maker/)</sup><br/>
 <sup>[Developers Who Stopped Growing in the Age of AI Coding](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/en/)</sup><br/>
+<sup>[AI 코딩 시대, 더이상 성장하지 않는 개발자들](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)</sup><br/>
 <sup>[When AI Writes the Code, a Developer&#39;s Real Skills Show](https://evan-moon.github.io/2026/02/10/developer-in-ai-era/en/)</sup><br/>
-<sup>[AI가 코드를 쓰는 시대, 개발자의 진짜 역량이 드러난다](https://evan-moon.github.io/2026/02/10/developer-in-ai-era/)</sup><br/>
-<sup>[Beyond Functors, All the Way to Monads](https://evan-moon.github.io/2026/02/07/monads-in-typescript/en/)</sup><br/>
-<sup>[펑터를 넘어서, 모나드까지](https://evan-moon.github.io/2026/02/07/monads-in-typescript/)</sup><br/><!-- BLOG-POST-LIST:END -->
+<sup>[AI가 코드를 쓰는 시대, 개발자의 진짜 역량이 드러난다](https://evan-moon.github.io/2026/02/10/developer-in-ai-era/)</sup><br/><!-- BLOG-POST-LIST:END -->
 
 ### Youtube
 <sup>[2023 NE(O)RDINARY | 시장에서 살아남는 개발자 되기](https://youtu.be/BuU7JVune-s?si=8YOIt54_1IPaUSyj)</sup><br/>
