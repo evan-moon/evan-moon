@@ -18,12 +18,12 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
+<sup>[Why Identity Is the Hardest Problem in Programming](https://evan-moon.github.io/2026/08/02/why-identity-is-hard-in-programming/en/)</sup><br/>
+<sup>[동일성은 왜 프로그래밍에서 가장 어려운 문제인가](https://evan-moon.github.io/2026/08/02/why-identity-is-hard-in-programming/)</sup><br/>
 <sup>[What Leaders Should Really Worry About Isn&#39;t Productivity](https://evan-moon.github.io/2026/06/12/illusion-of-ai-mastery/en/)</sup><br/>
 <sup>[리더가 정말 신경 써야 할 것은 생산성이 아니다](https://evan-moon.github.io/2026/06/12/illusion-of-ai-mastery/)</sup><br/>
 <sup>[Tools Live On After Leaving Their Maker](https://evan-moon.github.io/2026/04/28/tools-leave-their-maker/en/)</sup><br/>
-<sup>[도구는 만든 사람을 떠나서 살아간다](https://evan-moon.github.io/2026/04/28/tools-leave-their-maker/)</sup><br/>
-<sup>[Developers Who Stopped Growing](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/en/)</sup><br/>
-<sup>[더이상 성장하지 않는 개발자들](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)</sup><br/><!-- BLOG-POST-LIST:END -->
+<sup>[도구는 만든 사람을 떠나서 살아간다](https://evan-moon.github.io/2026/04/28/tools-leave-their-maker/)</sup><br/><!-- BLOG-POST-LIST:END -->
 
 ### Youtube
 <sup>[2023 NE(O)RDINARY | 시장에서 살아남는 개발자 되기](https://youtu.be/BuU7JVune-s?si=8YOIt54_1IPaUSyj)</sup><br/>
