@@ -18,8 +18,8 @@
 ### 최근 포스팅
 
 <!-- BLOG-POST-LIST:START -->
-<sup>[애매한 문제를 제대로 정의한다는 것](https://evan-moon.github.io/2026/09/24/defining-ambiguous-problems/)</sup><br/>
 <sup>[On Properly Defining Ambiguous Problems](https://evan-moon.github.io/2026/09/24/defining-ambiguous-problems/en/)</sup><br/>
+<sup>[애매한 문제를 제대로 정의한다는 것](https://evan-moon.github.io/2026/09/24/defining-ambiguous-problems/)</sup><br/>
 <sup>[Why Identity Is the Hardest Problem in Programming](https://evan-moon.github.io/2026/08/02/why-identity-is-hard-in-programming/en/)</sup><br/>
 <sup>[동일성은 왜 프로그래밍에서 가장 어려운 문제인가](https://evan-moon.github.io/2026/08/02/why-identity-is-hard-in-programming/)</sup><br/>
 <sup>[What Leaders Should Really Worry About Isn&#39;t Productivity](https://evan-moon.github.io/2026/06/12/illusion-of-ai-mastery/en/)</sup><br/>
